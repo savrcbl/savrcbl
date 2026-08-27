@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm savr
 
-<!--
-**savrcbl/savrcbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Test Development Engineer • C#/.NET • Test Automation
 
-Here are some ideas to get you started:
+I build software, engineering tools, and automated test systems
+with a focus on reliability, maintainability, and practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Test Development Engineer
+- C# / .NET Developer
+- Test Automation & Hardware Validation
+- Desktop Application Development
+- Software & Hardware Integration
+
+---
+
+## Tech Stack
+
+**Languages**
+
+C# · Python · C++ · Java · SQL
+
+**Frameworks**
+
+.NET · WPF · WinForms · ASP.NET Core
+
+**Tools & Technologies**
+
+Git · PostgreSQL · SQL Server · REST APIs · MQTT · VISA · Serial Communication
+
+---
+
+## GitHub
+
+I use GitHub to experiment, build tools, document projects,
+and explore different areas of software and engineering.
+
+---
+
+## Let's Connect
+
+Feel free to explore my repositories and projects (Most of my repo are in private).
