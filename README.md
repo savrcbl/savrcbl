@@ -1,10 +1,6 @@
 # 👋 Hey, I'm savr
 
-### Test Development Engineer · Software Developer
-
 ---
-
-## 👨‍💻 About Me
 
 I'm a **Test Development Engineer** focused on building reliable software, automated test systems, and engineering tools.
 
