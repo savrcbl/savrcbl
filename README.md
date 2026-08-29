@@ -31,7 +31,6 @@ My main focus is writing practical, maintainable software that makes engineering
 
 ![Test Automation](https://img.shields.io/badge/Test_Automation-333333?style=for-the-badge\&logo=robotframework\&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
 ![Serial](https://img.shields.io/badge/Serial_Communication-555555?style=for-the-badge\&logo=usb\&logoColor=white)
 ![VISA](https://img.shields.io/badge/VISA-Instrumentation-555555?style=for-the-badge)
 
