@@ -32,7 +32,6 @@ I'm also continuously expanding my skills and currently learning more about REST
 ### 🧪 Engineering & Automation
 
 ![Test Automation](https://img.shields.io/badge/Test_Automation-333333?style=for-the-badge\&logo=robotframework\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Serial](https://img.shields.io/badge/Serial_Communication-555555?style=for-the-badge\&logo=usb\&logoColor=white)
 ![VISA](https://img.shields.io/badge/VISA-Instrumentation-555555?style=for-the-badge)
 
