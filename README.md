@@ -6,7 +6,7 @@ I enjoy working across both **software and hardware**, from desktop applications
 
 My main focus is writing practical, maintainable software that makes engineering workflows **faster, simpler, and more reliable**.
 
-I'm also continuously expanding my skills and currently learning more about REST APIs, backend development, artificial intelligence (AI), and other programming technologies such as Node.js. I enjoy exploring different languages and technologies to broaden my development experience and build more versatile engineering solutions.
+I'm also continuously expanding my skills and currently learning more about APIs, backend development, artificial intelligence (AI), and other programming technologies such as Node.js. I enjoy exploring different languages and technologies to broaden my development experience and build more versatile engineering solutions.
 
 ---
 
