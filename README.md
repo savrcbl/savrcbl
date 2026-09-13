@@ -29,17 +29,19 @@ I'm also continuously expanding my skills and currently learning more about APIs
 
 ### 🧪 Engineering & Automation
 ![Test Automation](https://img.shields.io/badge/Test_Automation-333333?style=for-the-badge&logo=robotframework&logoColor=white)
-![Serial](https://img.shields.io/badge/Serial_Communication-555555?style=for-the-badge&logo=usb&logoColor=white)
-![VISA](https://img.shields.io/badge/VISA-Instrumentation-555555?style=for-the-badge)
+![Serial](https://img.shields.io/badge/Serial_Communication-ee6a50?style=for-the-badge&logo=Serial&logoColor=white)
+![VISA](https://img.shields.io/badge/VISA-Instrumentation-00ced1?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-ff00ff?style=for-the-badge)
 
 ### 🗄️ Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-CC5327?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-CC5327?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔭 Currently Exploring
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MAUI](https://img.shields.io/badge/MAUI-ff5800?style=for-the-badge&logo=maui&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2b83a9?style=for-the-badge&logo=supabase&logoColor=white)
