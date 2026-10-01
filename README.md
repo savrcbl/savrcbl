@@ -44,4 +44,3 @@ I'm also continuously expanding my skills and currently learning more about APIs
 ### 🔭 Currently Exploring
 ![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MAUI](https://img.shields.io/badge/MAUI-ff5800?style=for-the-badge&logo=maui&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2b83a9?style=for-the-badge&logo=supabase&logoColor=white)
