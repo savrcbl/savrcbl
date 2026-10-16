@@ -18,6 +18,7 @@ I'm also continuously expanding my skills and currently learning more about APIs
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JS](https://img.shields.io/badge/Java-Script-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙️ Frameworks & Development
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
